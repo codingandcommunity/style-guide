@@ -1,3 +1,5 @@
+![cc logo](logo/coding-and-community-logo-png-200-px-by-33-px.png)
+
 # style-guide
 This repository contains the style guide for coding and community. It should contain all graphic design/brand assets as wells as hex codes for colors and recommended fonts.
 
@@ -63,3 +65,29 @@ The following table links to copies of this logo in various formats and various 
 | [coding-and-community-logo-jpg-200-px-by-33-px.jpg](logo/coding-and-community-logo-jpg-200-px-by-33-px.jpg)   | JPEG              | 200 px  | 33 px  |
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
+
+# GitHub Repositories #
+
+GitHub repositories should have the coding&&community logo at the top of the `README.md` file and should have a list of past contributors at the bottom of that README file.
+
+```markdown
+![cc logo](logo/coding-and-community-logo-png-200-px-by-33-px.png)
+
+repository name
+===============
+
+...repository documentation...
+
+### Past Contributors ###
+
+Add your name here if you're committing changes to this repository.
+
+- [John Smith](https://johnsmith.com)
+```
+
+
+### Past Contributors ###
+
+Add your name here if you're committing changes to this repository.
+
+- [Jake Billings](https://jakebillings.com)
