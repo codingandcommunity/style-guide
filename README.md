@@ -3,7 +3,7 @@ This repository contains the style guide for coding and community. It should con
 
 # What is a style guide? #
 
-Don't worry. This document is simpler than it seems. You're probably only here to copy and paste one picture or value. You've got this.
+You're probably only here to copy and paste one picture or value.
 
 ![google-search-for-what-is-a-style-guide.png](readme/google-search-for-what-is-a-style-guide-small.png)
 
@@ -52,14 +52,14 @@ The following table links to copies of this logo in various formats and various 
 | Link                                                | Format            | Width   | Height |
 |-----------------------------------------------------|-------------------|---------|--------|
 | [logo/coding-and-community-logo-original.ai](logo/coding-and-community-logo-original.ai)               | Adobe Illustrator | Vector  | Vector |
-| [coding-and-community-logo-svg-vector.svg](coding-and-community-logo-svg-vector.svg)            | SVG               | Vector  | Vector |
-| [coding-and-community-logo-png-2000-px-by-332-px.png](coding-and-community-logo-png-2000-px-by-332-px.png) | PNG               | 2000 px | 332 px |
-| [coding-and-community-logo-png-1000-px-by-116-px.png](coding-and-community-logo-png-1000-px-by-116-px.png) | PNG               | 1000 px | 116 px |
-| [coding-and-community-logo-png-500-px-by-83-px.png](coding-and-community-logo-png-500-px-by-83-px.png)   | PNG               | 500 px  | 83 px  |
-| [coding-and-community-logo-png-200-px-by-33-px.png](coding-and-community-logo-png-200-px-by-33-px.png)   | PNG               | 200 px  | 33 px  |
-| [coding-and-community-logo-jpg-2000-px-by-332-px.jpg](coding-and-community-logo-jpg-2000-px-by-332-px.jpg) | JPEG              | 2000 px | 332 px |
-| [coding-and-community-logo-jpg-1000-px-by-116-px.jpg](coding-and-community-logo-jpg-1000-px-by-116-px.jpg) | JPEG              | 1000 px | 116 px |
-| [coding-and-community-logo-jpg-500-px-by-83-px.jpg](coding-and-community-logo-jpg-500-px-by-83-px.jpg)   | JPEG              | 500 px  | 83 px  |
-| [coding-and-community-logo-jpg-200-px-by-33-px.jpg](coding-and-community-logo-jpg-200-px-by-33-px.jpg)   | JPEG              | 200 px  | 33 px  |
+| [logo/coding-and-community-logo-svg-vector.svg](coding-and-community-logo-svg-vector.svg)            | SVG               | Vector  | Vector |
+| [logo/coding-and-community-logo-png-2000-px-by-332-px.png](coding-and-community-logo-png-2000-px-by-332-px.png) | PNG               | 2000 px | 332 px |
+| [logo/coding-and-community-logo-png-1000-px-by-116-px.png](coding-and-community-logo-png-1000-px-by-116-px.png) | PNG               | 1000 px | 116 px |
+| [logo/coding-and-community-logo-png-500-px-by-83-px.png](coding-and-community-logo-png-500-px-by-83-px.png)   | PNG               | 500 px  | 83 px  |
+| [logo/coding-and-community-logo-png-200-px-by-33-px.png](coding-and-community-logo-png-200-px-by-33-px.png)   | PNG               | 200 px  | 33 px  |
+| [logo/coding-and-community-logo-jpg-2000-px-by-332-px.jpg](coding-and-community-logo-jpg-2000-px-by-332-px.jpg) | JPEG              | 2000 px | 332 px |
+| [logo/coding-and-community-logo-jpg-1000-px-by-116-px.jpg](coding-and-community-logo-jpg-1000-px-by-116-px.jpg) | JPEG              | 1000 px | 116 px |
+| [logo/coding-and-community-logo-jpg-500-px-by-83-px.jpg](coding-and-community-logo-jpg-500-px-by-83-px.jpg)   | JPEG              | 500 px  | 83 px  |
+| [logo/coding-and-community-logo-jpg-200-px-by-33-px.jpg](coding-and-community-logo-jpg-200-px-by-33-px.jpg)   | JPEG              | 200 px  | 33 px  |
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
