@@ -76,7 +76,10 @@ It is recommended to use this icon instead of the logo in any case where a squar
 
 | Link                                                | Format            | Width   | Height |
 |-----------------------------------------------------|-------------------|---------|--------|
-| [coding-and-community-icon-jpg-200-px-by-33-px.jpg](icon/coding-and-community-icon-jpg-200-px-by-33-px.jpg)               | JPEG | 200  | 200 |
+| [coding-and-community-icon-jpg-200-px-by-200-px.jpg](icon/coding-and-community-icon-jpg-200-px-by-200-px.jpg)               | JPEG | 200  | 200 |
+| [coding-and-community-icon-jpg-200-px-by-200-px-compressed.jpg](icon/coding-and-community-icon-jpg-200-px-by-200-px-compressed.jpg)               | JPEG | 200  | 200 |
+| [coding-and-community-icon-jpg-500-px-by-500-px.jpg](icon/coding-and-community-icon-jpg-500-px-by-500-px.jpg)               | JPEG | 200  | 200 |
+| [coding-and-community-icon-jpg-1200-px-by-1200-px.jpg](icon/coding-and-community-icon-jpg-1200-px-by-1200-px.jpg)               | JPEG | 200  | 200 |
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
 
