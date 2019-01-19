@@ -56,11 +56,11 @@ The following table links to copies of this logo in various formats and various 
 | [coding-and-community-logo-original.ai](logo/coding-and-community-logo-original.ai)               | Adobe Illustrator | Vector  | Vector |
 | [coding-and-community-logo-svg-vector.svg](logo/coding-and-community-logo-svg-vector.svg)            | SVG               | Vector  | Vector |
 | [coding-and-community-logo-png-2000-px-by-333-px.png](logo/coding-and-community-logo-png-2000-px-by-333-px.png) | PNG               | 2000 px | 333 px |
-| [coding-and-community-logo-png-1000-px-by-116-px.png](logo/coding-and-community-logo-png-1000-px-by-116-px.png) | PNG               | 1000 px | 116 px |
+| [coding-and-community-logo-png-1000-px-by-166-px.png](logo/coding-and-community-logo-png-1000-px-by-166-px.png) | PNG               | 1000 px | 166 px |
 | [coding-and-community-logo-png-500-px-by-83-px.png](logo/coding-and-community-logo-png-500-px-by-83-px.png)   | PNG               | 500 px  | 83 px  |
 | [coding-and-community-logo-png-200-px-by-33-px.png](logo/coding-and-community-logo-png-200-px-by-33-px.png)   | PNG               | 200 px  | 33 px  |
 | [coding-and-community-logo-jpg-2000-px-by-333-px.jpg](logo/coding-and-community-logo-jpg-2000-px-by-333-px.jpg) | JPEG              | 2000 px | 333 px |
-| [coding-and-community-logo-jpg-1000-px-by-116-px.jpg](logo/coding-and-community-logo-jpg-1000-px-by-116-px.jpg) | JPEG              | 1000 px | 116 px |
+| [coding-and-community-logo-jpg-1000-px-by-166-px.jpg](logo/coding-and-community-logo-jpg-1000-px-by-166-px.jpg) | JPEG              | 1000 px | 166 px |
 | [coding-and-community-logo-jpg-500-px-by-83-px.jpg](logo/coding-and-community-logo-jpg-500-px-by-83-px.jpg)   | JPEG              | 500 px  | 83 px  |
 | [coding-and-community-logo-jpg-200-px-by-33-px.jpg](logo/coding-and-community-logo-jpg-200-px-by-33-px.jpg)   | JPEG              | 200 px  | 33 px  |
 
