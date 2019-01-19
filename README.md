@@ -84,6 +84,19 @@ It is recommended to use this icon instead of the logo in any case where a squar
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
 
+# XTech Event #
+
+The XTech logo changes annually. Make sure the version you use references the current year or no year at all.
+
+![xtech logo](xtech/xtech-2018-logo-png-200-px-by-200-px.png)
+
+You may need to update this styleguide if the XTech logo for your year is not available.
+
+| Link                                                                                                                                              | Format  | Width   | Height |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|--------|
+| [xtech-2018-logo-png-200-px-by-200-px.png](xtech/xtech-logo-png-200-px-by-200-px.png)                                                                  | PNG     | 200     | 200    |
+| [xtech-2018-logo-png-736-px-by-736-px.png](xtech/xtech-logo-png-736-px-by-736-px.png)                                                                  | PNG     | 736     | 736    |
+
 # A note on RGB Color Space #
 
 This logo exists in *RGB Color Space* (as opposed to *CMYK Color Space*). This means that the default settings for Adobe Illustrator will mess up the colors upon import. You must work with the coding&&community logo using the correct color space in order to keep the colors consistent.
