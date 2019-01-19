@@ -84,9 +84,24 @@ It is recommended to use this icon instead of the logo in any case where a squar
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
 
-# XTech Event #
+# LaunchPad Hackathon Event Logo #
 
-The XTech logo changes annually. Make sure the version you use references the current year or no year at all.
+The LanuchPad Hackathon event logo consists of an astronaut typing on a laptop with the word launchpad connected to the astronaut.
+
+![launchpad hackathon logo](launchpad/launchpad-transparent-png-200-px-by-94-px.png)
+
+It is available as a transparent png file.
+
+| Link                                                                                                                                              | Format  | Width   | Height |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|--------|
+| [launchpad-transparent-png-200-px-by-94-px.png](launchpad/launchpad-transparent-png-200-px-by-94-px.png)                                          | PNG     | 200     | 94     |
+| [launchpad-transparent-png-500-px-by-235-px.png](launchpad/launchpad-transparent-png-500-px-by-235-px.png)                                        | PNG     | 500     | 235    |
+| [launchpad-transparent-png-1064-px-by-500-px.png](launchpad/launchpad-transparent-png-1064-px-by-500-px.png)                                      | PNG     | 1064    | 500    |
+
+
+# XTech Event Logo #
+
+The XTech logo changes annually and consists of a large white X on an orange background. It also features the year and the word "tech." Make sure the version you use references the current year or no year at all.
 
 ![xtech logo](xtech/xtech-2018-logo-png-200-px-by-200-px.png)
 
