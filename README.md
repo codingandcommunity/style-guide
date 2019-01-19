@@ -33,10 +33,11 @@ For the purpose of branded material, the name of this organization is `coding&&c
 
 # Colors #
 
-| Name                    | Hex Code | Sample                                          |
-|-------------------------|----------|-------------------------------------------------|
-|coding&&community blue   | 18B1FF   |![blue](readme/cc-blue-sample-40px-40px.png)     |
-|coding&&community orange | FF6922   |![orange](readme/cc-orange-sample-40px-40px.png) |
+| Name                            | Hex Code | Sample                                          |
+|---------------------------------|----------|-------------------------------------------------|
+|coding&&community blue           | 18B1FF   |![blue](readme/cc-blue-sample-40px-40px.png)     |
+|coding&&community secondary blue | 43D2E8   |![secondary-blue](readme/cc-secondary-blue-sample-40px-40px.png) |
+|coding&&community orange         | FF6922   |![orange](readme/cc-orange-sample-40px-40px.png) |
 
 # Logo #
 
