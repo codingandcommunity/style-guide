@@ -94,8 +94,8 @@ You may need to update this styleguide if the XTech logo for your year is not av
 
 | Link                                                                                                                                              | Format  | Width   | Height |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|--------|
-| [xtech-2018-logo-png-200-px-by-200-px.png](xtech/xtech-logo-png-200-px-by-200-px.png)                                                                  | PNG     | 200     | 200    |
-| [xtech-2018-logo-png-736-px-by-736-px.png](xtech/xtech-logo-png-736-px-by-736-px.png)                                                                  | PNG     | 736     | 736    |
+| [xtech-2018-logo-png-200-px-by-200-px.png](xtech/xtech-2018-logo-png-200-px-by-200-px.png)                                                                  | PNG     | 200     | 200    |
+| [xtech-2018-logo-png-736-px-by-736-px.png](xtech/xtech-2018-logo-png-736-px-by-736-px.png)                                                                  | PNG     | 736     | 736    |
 
 # A note on RGB Color Space #
 
