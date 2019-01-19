@@ -35,7 +35,7 @@ For the purpose of branded material, the name of this organization is `coding&&c
 
 | Name                    | Hex Code | Sample                                          |
 |-------------------------|----------|-------------------------------------------------|
-|coding&&community blue   | 4BAADE   |![blue](readme/cc-blue-sample-40px-40px.png)     |
+|coding&&community blue   | 18B1FF   |![blue](readme/cc-blue-sample-40px-40px.png)     |
 |coding&&community orange | FF6922   |![orange](readme/cc-orange-sample-40px-40px.png) |
 
 # Logo #
@@ -55,11 +55,11 @@ The following table links to copies of this logo in various formats and various 
 |-----------------------------------------------------|-------------------|---------|--------|
 | [coding-and-community-logo-original.ai](logo/coding-and-community-logo-original.ai)               | Adobe Illustrator | Vector  | Vector |
 | [coding-and-community-logo-svg-vector.svg](logo/coding-and-community-logo-svg-vector.svg)            | SVG               | Vector  | Vector |
-| [coding-and-community-logo-png-2000-px-by-332-px.png](logo/coding-and-community-logo-png-2000-px-by-332-px.png) | PNG               | 2000 px | 332 px |
+| [coding-and-community-logo-png-2000-px-by-333-px.png](logo/coding-and-community-logo-png-2000-px-by-333-px.png) | PNG               | 2000 px | 333 px |
 | [coding-and-community-logo-png-1000-px-by-116-px.png](logo/coding-and-community-logo-png-1000-px-by-116-px.png) | PNG               | 1000 px | 116 px |
 | [coding-and-community-logo-png-500-px-by-83-px.png](logo/coding-and-community-logo-png-500-px-by-83-px.png)   | PNG               | 500 px  | 83 px  |
 | [coding-and-community-logo-png-200-px-by-33-px.png](logo/coding-and-community-logo-png-200-px-by-33-px.png)   | PNG               | 200 px  | 33 px  |
-| [coding-and-community-logo-jpg-2000-px-by-332-px.jpg](logo/coding-and-community-logo-jpg-2000-px-by-332-px.jpg) | JPEG              | 2000 px | 332 px |
+| [coding-and-community-logo-jpg-2000-px-by-333-px.jpg](logo/coding-and-community-logo-jpg-2000-px-by-333-px.jpg) | JPEG              | 2000 px | 333 px |
 | [coding-and-community-logo-jpg-1000-px-by-116-px.jpg](logo/coding-and-community-logo-jpg-1000-px-by-116-px.jpg) | JPEG              | 1000 px | 116 px |
 | [coding-and-community-logo-jpg-500-px-by-83-px.jpg](logo/coding-and-community-logo-jpg-500-px-by-83-px.jpg)   | JPEG              | 500 px  | 83 px  |
 | [coding-and-community-logo-jpg-200-px-by-33-px.jpg](logo/coding-and-community-logo-jpg-200-px-by-33-px.jpg)   | JPEG              | 200 px  | 33 px  |
@@ -70,7 +70,7 @@ It is recommended to use the SVG version wherever possible. This allows for infi
 
 The coding&&community icon consists of a blue circle with the white text `{c&&c}` on a coding&&community blue background. It is surrounded by dots in groups of three in order to form a square. The background is either transparent or white.
 
-![coding-and-community-icon-jpg-200-px-by-33-px.jpg](icon/coding-and-community-icon-jpg-200-px-by-33-px.jpg)
+![coding-and-community-icon-jpg-200-px-by-200-px.jpg](icon/coding-and-community-icon-jpg-200-px-by-200-px.jpg)
 
 It is recommended to use this icon instead of the logo in any case where a square or circular image is required. This image should also be used instead of the logo any time where width is a dominant concern. If width is not a concern and shape does not matter, then the main logo should be used.
 
@@ -82,6 +82,18 @@ It is recommended to use this icon instead of the logo in any case where a squar
 | [coding-and-community-icon-jpg-1200-px-by-1200-px.jpg](icon/coding-and-community-icon-jpg-1200-px-by-1200-px.jpg)               | JPEG | 200  | 200 |
 
 It is recommended to use the SVG version wherever possible. This allows for infinite scaling without resolution issues. If a pixel image format is required, PNG should be used for the clearest image, and JPG should be used if image size is the dominant concern. The smallest image size that avoids pixelation/resolution issues should be used.
+
+# A note on RGB Color Space #
+
+This logo exists in *RGB Color Space* (as opposed to *CMYK Color Space*). This means that the default settings for Adobe Illustrator will mess up the colors upon import. You must work with the coding&&community logo using the correct color space in order to keep the colors consistent.
+
+### Setting Document Color Mode to RGB Color ###
+![illustrator rgb color space 1](readme/illustrator-rgb-color-space-1.png)
+
+### Setting Color Picker to RGB Color ###
+![illustrator rgb color space 2](readme/illustrator-rgb-color-space-2.png)
+
+![illustrator rgb color space 3](readme/illustrator-rgb-color-space-3.png)
 
 # GitHub Repositories #
 
