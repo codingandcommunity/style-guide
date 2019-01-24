@@ -3,7 +3,7 @@
 # style-guide
 This repository contains the style guide for coding&&community. It should contain all graphic design/brand assets as wells as hex codes for colors and recommended fonts.
 
-Visit https://codingandcommunity.org for more information about our organization.
+Visit [https://codingandcommunity.org](https://codingandcommunity.org) for more information about our organization.
 
 # What is a style guide? #
 
