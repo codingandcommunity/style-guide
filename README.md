@@ -1,7 +1,9 @@
 ![cc logo](logo/coding-and-community-logo-png-200-px-by-33-px.png)
 
 # style-guide
-This repository contains the style guide for coding and community. It should contain all graphic design/brand assets as wells as hex codes for colors and recommended fonts.
+This repository contains the style guide for coding&&community. It should contain all graphic design/brand assets as wells as hex codes for colors and recommended fonts.
+
+Visit https://codingandcommunity.org for more information about our organization.
 
 # What is a style guide? #
 
