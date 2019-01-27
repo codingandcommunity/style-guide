@@ -94,14 +94,15 @@ The LanuchPad Hackathon event logo consists of an astronaut typing on a laptop w
 
 ![launchpad hackathon logo](launchpad/launchpad-transparent-png-200-px-by-94-px.png)
 
-It is available as a transparent png file.
+It is available as a transparent png, svg, or ai file.
 
-| Link                                                                                                                                              | Format  | Width   | Height |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|--------|
-| [launchpad-original.ai](launchpad/launchpad-original.ai)                                                                                          | PNG     | 200     | 94     |
-| [launchpad-transparent-png-200-px-by-94-px.png](launchpad/launchpad-transparent-png-200-px-by-94-px.png)                                          | PNG     | 200     | 94     |
-| [launchpad-transparent-png-500-px-by-235-px.png](launchpad/launchpad-transparent-png-500-px-by-235-px.png)                                        | PNG     | 500     | 235    |
-| [launchpad-transparent-png-1064-px-by-500-px.png](launchpad/launchpad-transparent-png-1064-px-by-500-px.png)                                      | PNG     | 1064    | 500    |
+| Link                                                                                                                                              | Format            | Width   | Height |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|---------|--------|
+| [launchpad-original.ai](launchpad/launchpad-original.ai)                                                                                          | Adobe Illustrator | Vector  | Vector |
+| [launchpad-vector.svg](launchpad/launchpad-vector.svg)                                                                                            | SVG               | Vector  | Vector |
+| [launchpad-transparent-png-200-px-by-94-px.png](launchpad/launchpad-transparent-png-200-px-by-94-px.png)                                          | PNG               | 200     | 94     |
+| [launchpad-transparent-png-500-px-by-235-px.png](launchpad/launchpad-transparent-png-500-px-by-235-px.png)                                        | PNG               | 500     | 235    |
+| [launchpad-transparent-png-1064-px-by-500-px.png](launchpad/launchpad-transparent-png-1064-px-by-500-px.png)                                      | PNG               | 1064    | 500    |
 
 
 # XTech Event Logo #
