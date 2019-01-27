@@ -5,6 +5,8 @@ This repository contains the style guide for coding&&community. It should contai
 
 Visit [https://codingandcommunity.org](https://codingandcommunity.org) for more information about our organization.
 
+We are a [Rensselaer Polytechnic Institute](https://www.rpi.edu/) [Student Union](https://union.rpi.edu/) Club.
+
 # What is a style guide? #
 
 You're probably only here to copy and paste one picture or value.
