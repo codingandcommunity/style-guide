@@ -98,6 +98,7 @@ It is available as a transparent png file.
 
 | Link                                                                                                                                              | Format  | Width   | Height |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|--------|
+| [launchpad-original.ai](launchpad/launchpad-original.ai)                                                                                          | PNG     | 200     | 94     |
 | [launchpad-transparent-png-200-px-by-94-px.png](launchpad/launchpad-transparent-png-200-px-by-94-px.png)                                          | PNG     | 200     | 94     |
 | [launchpad-transparent-png-500-px-by-235-px.png](launchpad/launchpad-transparent-png-500-px-by-235-px.png)                                        | PNG     | 500     | 235    |
 | [launchpad-transparent-png-1064-px-by-500-px.png](launchpad/launchpad-transparent-png-1064-px-by-500-px.png)                                      | PNG     | 1064    | 500    |
